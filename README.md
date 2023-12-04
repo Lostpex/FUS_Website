@@ -1,2 +1,3 @@
-# FUS_Website
-Die offizielle Website der FUS
+# FUS Website
+
+**F**örderation **U**nabhängiger **S**ysteme
